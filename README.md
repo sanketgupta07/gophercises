@@ -1,4 +1,4 @@
 # gophercises
 golang exercise
 
-1.Quiz Game
+1. Quiz Game
