@@ -8,3 +8,4 @@ golang exercise
 1. Application Structure
 2. Variable Basic
 3. Zero values (default values)
+4. Comments and Naming Conventions
