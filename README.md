@@ -2,3 +2,9 @@
 golang exercise
 
 1. Quiz Game
+
+==========
+
+1. Application Structure
+2. Variable Basic
+3. Zero values (default values)
