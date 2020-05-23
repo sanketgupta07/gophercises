@@ -10,3 +10,7 @@ golang exercise
 3. Zero values (default values)
 4. Comments and Naming Conventions
 5. FMT package
+6. Constants (basic, rules, untyped)
+7. iota
+
+
