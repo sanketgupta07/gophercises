@@ -9,3 +9,4 @@ golang exercise
 2. Variable Basic
 3. Zero values (default values)
 4. Comments and Naming Conventions
+5. FMT package
