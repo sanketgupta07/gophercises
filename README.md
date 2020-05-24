@@ -12,5 +12,6 @@ golang exercise
 5. FMT package
 6. Constants (basic, rules, untyped)
 7. iota
+8. Type Conversion
 
 
