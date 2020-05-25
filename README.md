@@ -13,5 +13,7 @@ golang exercise
 6. Constants (basic, rules, untyped)
 7. iota
 8. Type Conversion
+9. Defined Types
+10. Alias
 
 
