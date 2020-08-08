@@ -14,6 +14,6 @@ golang exercise
 7. iota
 8. Type Conversion
 9. Defined Types
-10. Alias
+10. Alias 
 
 
